@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "861723212515",
+    "firebase_url": "https://work-4d2a0.firebaseio.com",
+    "project_id": "work-4d2a0",
+    "storage_bucket": "work-4d2a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861723212515:android:91f0f41c449bd702",
+        "android_client_info": {
+          "package_name": "fireapp.manoj.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861723212515-jficnl7adiganj72c6budmtn3t1fjrnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC46DONhKlsQoiOmAizhFEmTl9xm96ciJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861723212515-jficnl7adiganj72c6budmtn3t1fjrnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861723212515:android:d2ab3be40818b3fe",
+        "android_client_info": {
+          "package_name": "fireapp.manoj.template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861723212515-jficnl7adiganj72c6budmtn3t1fjrnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC46DONhKlsQoiOmAizhFEmTl9xm96ciJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861723212515-jficnl7adiganj72c6budmtn3t1fjrnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861723212515:android:fc824ed5a09fab6c",
+        "android_client_info": {
+          "package_name": "net.iquesoft.socketapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861723212515-6ijm51e3pcmn6l52usqcf6562fe2j5mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.iquesoft.socketapp",
+            "certificate_hash": "47d5b5132019ce9344783001b72cd771e4eaa180"
+          }
+        },
+        {
+          "client_id": "861723212515-jficnl7adiganj72c6budmtn3t1fjrnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC46DONhKlsQoiOmAizhFEmTl9xm96ciJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861723212515-jficnl7adiganj72c6budmtn3t1fjrnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
